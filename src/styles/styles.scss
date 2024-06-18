@@ -1,0 +1,48 @@
+body {
+	font-family: "Schibsted Grotesk", system-ui, -apple-system, BlinkMacSystemFont,
+		"Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+		sans-serif;
+	background-color: hsl(0, 0%, 90%);
+    margin: 0;
+}
+
+main {
+    max-width: 80ch;
+    margin: auto;
+    padding: 2rem;
+    background-color: hsl(0, 0%, 98%);
+}
+
+code,
+pre {
+	font-family: "Fira Mono", "Courier Prime", "Courier New", Courier, monospace;
+}
+
+pre {
+	padding: 1rem;
+	border-radius: 0.5rem;
+}
+
+h1 {
+	font-size: 2rem;
+}
+
+h2 {
+	font-family: 1.8rem;
+}
+
+h3 {
+	font-family: 1.6rem;
+}
+
+h4 {
+	font-family: 1.4rem;
+}
+
+h5 {
+	font-family: 1.2rem;
+}
+
+h6 {
+	font-family: 1rem;
+}
